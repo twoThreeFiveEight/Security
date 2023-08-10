@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireshark notes/Section 1 Notes/Assignment 1 Lab 1.md",
+                "file": "Wireshark notes/Section 3 Notes/Create a profile.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireshark notes/Section 1 Notes/Assignment 1 Lab 1.md",
+                "file": "Wireshark notes/Section 3 Notes/Create a profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wireshark notes/Section 1 Notes/Assignment 1 Lab 1.md",
+                "file": "Wireshark notes/Section 3 Notes/Create a profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wireshark notes/Section 1 Notes/Assignment 1 Lab 1.md"
+                "file": "Wireshark notes/Section 3 Notes/Create a profile.md"
               }
             }
           }
@@ -158,8 +158,14 @@
   },
   "active": "021a3aab866c9982",
   "lastOpenFiles": [
-    "Wireshark notes/Wireshark User's Guide.pdf",
+    "Pasted image 20230809232931.png",
+    "Pasted image 20230809225910.png",
+    "Pasted image 20230809225602.png",
+    "Wireshark notes/Section 1 Notes/Untitled.md",
+    "Wireshark notes/Section 3 Notes/Create a profile.md",
+    "Wireshark notes/Section 3 Notes",
     "Wireshark notes/Section 1 Notes/Assignment 1 Lab 1.md",
+    "Wireshark notes/Wireshark User's Guide.pdf",
     "xResources/Pasted image 20230809221805.png",
     "xResources/Pasted image 20230809221513.png",
     "Wireshark notes/Section 1 Notes",
